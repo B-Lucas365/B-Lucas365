@@ -12,7 +12,7 @@
   <img align="center" alt="lucas-Python" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg">
  <img align="center" alt="lucas-Jupyter" height="30" width="40" src="https://jupyter.org/assets/main-logo.svg">
  <img align="center" alt="lucas-mysql" height="30" width="30" src="https://labs.mysql.com/common/logos/mysql-logo.svg?v2">
- <img align="center" alt="lucas-git" height="30" width="30" src="https://upload.wikimedia.org/wikipedia/commons/thumb/e/e0/Git-logo.svg/512px-Git-logo.svg.png">
+ <img align="center" alt="lucas-git" height="30" width="30" src="https://git-scm.com/images/logos/logomark-orange@2x.png">
  
 </div>
 </div>
