@@ -37,9 +37,8 @@
   <img src="https://profile-counter.glitch.me/B-Lucas365/count.svg" />  
 </p>
 
+![github contribution grid snake animation](https://raw.githubusercontent.com/B-Lucas365/B-Lucas365/output/github-contribution-grid-snake.svg)
 <!--
-
--->
 
 
 
