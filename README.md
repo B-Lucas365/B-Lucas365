@@ -10,6 +10,7 @@
   <img align="center" alt="lucas-HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
   <img align="center" alt="lucas-CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
   <img align="center" alt="lucas-Python" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg">
+ <img align="center" alt="lucas-react" height="30" width="40" src="https://upload.wikimedia.org/wikipedia/commons/thumb/a/a7/React-icon.svg/1024px-React-icon.svg.png">
  <img align="center" alt="lucas-Jupyter" height="30" width="40" src="https://jupyter.org/assets/main-logo.svg">
  <img align="center" alt="lucas-mysql" height="30" width="30" src="https://labs.mysql.com/common/logos/mysql-logo.svg?v2">
  <img align="center" alt="lucas-git" height="30" width="30" src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg">
