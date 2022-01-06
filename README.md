@@ -23,7 +23,7 @@
  <div align=center> 
   <a href="https://www.instagram.com/1lucas_r/" target="_blank"><img height="30" width="40" src="https://cdn3.iconfinder.com/data/icons/2018-social-media-logotypes/1000/2018_social_media_popular_app_logo_instagram-256.png" target="_blank"></a>
   <a href = "mailto: lucasrenan365@outlook.com"><img height="30" width="40" src="https://cdn3.iconfinder.com/data/icons/capsocial-round/500/Outlook-256.png" target="_blank"></a>
-  <a href="https://www.linkedin.com/in/lucas-renan3/" target="_blank"><img height="30" width="40" src="data:image/svg+xml;base64,PD94bWwgdmVyc2lvbj0iMS4wIiA/PjwhRE9DVFlQRSBzdmcgIFBVQkxJQyAnLS8vVzNDLy9EVEQgU1ZHIDEuMC8vRU4nICAnaHR0cDovL3d3dy53My5vcmcvVFIvMjAwMS9SRUMtU1ZHLTIwMDEwOTA0L0RURC9zdmcxMC5kdGQnPjxzdmcgZW5hYmxlLWJhY2tncm91bmQ9Im5ldyAwIDAgMzIgMzIiIGhlaWdodD0iMzJweCIgaWQ9IkxheWVyXzEiIHZlcnNpb249IjEuMCIgdmlld0JveD0iMCAwIDMyIDMyIiB3aWR0aD0iMzJweCIgeG1sOnNwYWNlPSJwcmVzZXJ2ZSIgeG1sbnM9Imh0dHA6Ly93d3cudzMub3JnLzIwMDAvc3ZnIiB4bWxuczp4bGluaz0iaHR0cDovL3d3dy53My5vcmcvMTk5OS94bGluayI+PGc+PHJlY3QgZmlsbD0iIzAwN0JCNSIgaGVpZ2h0PSIyMyIgd2lkdGg9IjciIHk9IjkiLz48cGF0aCBkPSJNMjQuMDAzLDlDMjAsOSwxOC44OSwxMC4zMTIsMTgsMTJWOWgtN3YyM2g3VjE5YzAtMiwwLTQsMy41LTRzMy41LDIsMy41LDR2MTNoN1YxOUMzMiwxMywzMSw5LDI0LjAwMyw5eiIgZmlsbD0iIzAwN0JCNSIvPjxjaXJjbGUgY3g9IjMuNSIgY3k9IjMuNSIgZmlsbD0iIzAwN0JCNSIgcj0iMy41Ii8+PC9nPjxnLz48Zy8+PGcvPjxnLz48Zy8+PGcvPjwvc3ZnPg==" target="_blank"></a>
+  <a href="https://www.linkedin.com/in/lucas-renan3/" target="_blank"><img height="30" width="40" src="https://cdn1.iconfinder.com/data/icons/logotypes/32/linkedin-256.png" target="_blank"></a>
 </div>
  
  <br>
