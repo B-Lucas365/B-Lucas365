@@ -19,11 +19,13 @@
 
 
  ##
+ 
 
+   
  <div align=center> 
-  <a href="https://www.instagram.com/1lucas_r/" target="_blank"><img height="30" width="40" src="https://cdn2.iconfinder.com/data/icons/social-icons-33/128/Instagram-256.png" target="_blank"> _ </a>
-  <a href = "mailto: lucasrenan365@outlook.com"><img height="30" width="40" src="https://cdn3.iconfinder.com/data/icons/social-media-special/260/outlook-256.png" target="_blank"> _ </a>
-  <a href="https://www.linkedin.com/in/lucas-renan3/" target="_blank"><img height="30" width="40" src="https://cdn1.iconfinder.com/data/icons/logotypes/32/linkedin-256.png" target="_blank"></a>
+  <a href="https://www.instagram.com/1lucas_r/" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
+ <a href="https://www.linkedin.com/in/lucas-renan3" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>
+ <a href = "mailto: lucasrenan365@outlook.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
 </div>
  
  <br>
