@@ -22,9 +22,9 @@
  ##
 
  <div align=center> 
-  <a href="https://www.instagram.com/1lucas_r/" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
+  <a href="https://www.instagram.com/1lucas_r/" target="_blank"><img src="https://cdn3.iconfinder.com/data/icons/2018-social-media-logotypes/1000/2018_social_media_popular_app_logo_instagram-256.png" target="_blank"></a>
   <a href = "mailto: lucasrenan365@outlook.com"><img src="https://cdn3.iconfinder.com/data/icons/capsocial-round/500/Outlook-256.png" target="_blank"></a>
-  <a href="https://www.linkedin.com/in/lucas-renan3/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>
+  <a href="https://www.linkedin.com/in/lucas-renan3/" target="_blank"><img src="https://cdn1.iconfinder.com/data/icons/logotypes/32/circle-linkedin-256.png" target="_blank"></a>
 </div>
  
  <br>
