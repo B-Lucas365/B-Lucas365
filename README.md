@@ -9,13 +9,12 @@
 <div>
 <div style="display: inline_block"><br>
  <h1></h1>
-  <img align="center" alt="lucas-Js" src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black">
-  <img align="center" alt="lucas-HTML" src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white">
-  <img align="center" alt="lucas-CSS" src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white">
- <img align="center" alt="lucas-bootstrap" src="https://img.shields.io/badge/Bootstrap-563D7C?style=for-the-badge&logo=bootstrap&logoColor=white">
-  <img align="center" alt="lucas-Python" src="https://img.shields.io/badge/Python-14354C?style=for-the-badge&logo=python&logoColor=white">
- <img align="center" alt="lucas-react" src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB">
- <img align="center" alt="lucas-mysql" src="https://img.shields.io/badge/MySQL-00000F?style=for-the-badge&logo=mysql&logoColor=white">
+  <img align="center" alt="lucas-Js" width="60px" src="https://cdn4.iconfinder.com/data/icons/logos-and-brands/512/187_Js_logo_logos-128.png">
+  <img align="center" alt="lucas-HTML" width="60px" src="https://cdn1.iconfinder.com/data/icons/logotypes/32/badge-html-5-128.png">
+  <img align="center" alt="lucas-CSS" width="60px" src="https://cdn4.iconfinder.com/data/icons/social-media-logos-6/512/121-css3-128.png">
+ <img align="center" alt="lucas-bootstrap" width="60px" src="https://cdn1.iconfinder.com/data/icons/flat-and-simple-part-1/128/bootstrap-128.png">
+ <img align="center" alt="lucas-react" width="60px" src="https://cdn4.iconfinder.com/data/icons/logos-3/600/React.js_logo-256.png">
+ <img align="center" alt="lucas-mysql" width="60px" src="https://cdn1.iconfinder.com/data/icons/programing-development-7/24/mysql_database_logo_data_base-128.png">
  
 </div>
 </div>
