@@ -9,12 +9,16 @@
 <div>
 <div style="display: inline_block"><br>
  <h1></h1>
-  <img align="center" alt="lucas-Js" width="60px" src="https://cdn4.iconfinder.com/data/icons/logos-and-brands/512/187_Js_logo_logos-128.png">
-  <img align="center" alt="lucas-HTML" width="60px" src="https://cdn1.iconfinder.com/data/icons/logotypes/32/badge-html-5-128.png">
-  <img align="center" alt="lucas-CSS" width="60px" src="https://cdn4.iconfinder.com/data/icons/social-media-logos-6/512/121-css3-128.png">
- <img align="center" alt="lucas-bootstrap" width="60px" src="https://cdn1.iconfinder.com/data/icons/flat-and-simple-part-1/128/bootstrap-128.png">
- <img align="center" alt="lucas-react" width="60px" src="https://cdn4.iconfinder.com/data/icons/logos-3/600/React.js_logo-256.png">
- <img align="center" alt="lucas-mysql" width="60px" src="https://cdn1.iconfinder.com/data/icons/programing-development-7/24/mysql_database_logo_data_base-128.png">
+  <img align="center" alt="lucas-Js" width="50px" src="https://www.svgrepo.com/show/303206/javascript-logo.svg">
+  <img align="center" alt="lucas-HTML" width="50px" src="https://cdn1.iconfinder.com/data/icons/logotypes/32/badge-html-5-128.png">
+  <img align="center" alt="lucas-CSS" width="50px" src="https://cdn4.iconfinder.com/data/icons/social-media-logos-6/512/121-css3-128.png">
+ <img align="center" alt="lucas-react" width="50px" src="https://cdn4.iconfinder.com/data/icons/logos-and-brands/512/288_Sass_logo-128.png">
+ <img align="center" alt="lucas-react" width="50px" src="https://cdn4.iconfinder.com/data/icons/logos-3/600/React.js_logo-256.png">
+ <img align="center" alt="lucas-react" width="50px" src="https://www.svgrepo.com/show/303600/typescript-logo.svg">
+ <img align="center" alt="lucas-react" width="50px" src="https://cdn4.iconfinder.com/data/icons/logos-and-brands/512/233_Node_Js_logo-256.png">
+ <img align="center" alt="lucas-react" width="50px" src="https://cdn3.iconfinder.com/data/icons/social-media-2169/24/social_media_social_media_logo_git-128.png">
+ 
+ 
  
 </div>
 </div>
