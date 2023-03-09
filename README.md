@@ -2,7 +2,7 @@
   <img src="https://media1.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif?cid=ecf05e477uc9kv428jlggukmojhx4l2mtjlcytanrjvebamv&rid=giphy.gif&ct=g" alt="GIF animado">
 </p>
 
-# Seu nome
+# I'm Lucas Renan
 
 👨‍💻 Desenvolvedor Front-End
 
@@ -26,16 +26,15 @@ Aqui estão algumas das tecnologias que eu domino:
 
 Aqui estão alguns dos meus projetos mais recentes que demonstram minhas habilidades em Front-End:
 
-- [Nome do Projeto](link do projeto) - Descrição curta do projeto e suas principais funcionalidades
-- [Nome do Projeto](link do projeto) - Descrição curta do projeto e suas principais funcionalidades
-- [Nome do Projeto](link do projeto) - Descrição curta do projeto e suas principais funcionalidades
+- [Photo.Studio](https://vercel.com/b-lucas365/photo-studio) - Landing page de divugação de um estudio de fotografia.
+- [DT-Money](https://dt-money-olive.vercel.app/) - Gerenciador de finançãs para adicionar e ter um controle de suas receitas e despesas.
+- [Star-D](https://vercel.com/b-lucas365/star-d) - Projeto desenvolvido para um cliente com objetivo de por em prestadores de serviços e clientes.
 
 ## 📫 Contato
 
 Se você gostou do meu trabalho e gostaria de me contratar para um projeto, fique à vontade para entrar em contato comigo por meio das minhas redes sociais abaixo:
 
-- [LinkedIn](link do LinkedIn)
-- [Twitter](link do Twitter)
-- [Email](seu endereço de email)
+- [LinkedIn](https://www.linkedin.com/in/lucas-renan3/)
+- [Instagram](https://www.instagram.com/1lucas_r/)
 
 Espero que isso ajude! Sinta-se à vontade para personalizar e ajustar o modelo de acordo com suas necessidades e preferências.
