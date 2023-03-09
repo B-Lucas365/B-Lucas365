@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="https://media.giphy.com/media/l49JKvIPb8LhLV0zW/giphy.gif" alt="GIF animado">
+  <img src="https://media1.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif?cid=ecf05e477uc9kv428jlggukmojhx4l2mtjlcytanrjvebamv&rid=giphy.gif&ct=g" alt="GIF animado">
 </p>
 
 # Seu nome
