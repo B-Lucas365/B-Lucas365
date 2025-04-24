@@ -1,4 +1,4 @@
-<h1 align="center">Olá, eu sou [Seu Nome] 👋</h1>
+<h1 align="center">Olá, eu sou Lucas 👋</h1>
 
 <p align="center">
   <img src="https://media.giphy.com/media/RbDKaczqWovIugyJmW/giphy.gif" width="250" />
